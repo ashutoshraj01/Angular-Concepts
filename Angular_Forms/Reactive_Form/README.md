@@ -1,8 +1,6 @@
 # Angular Reactive Forms
 
-How to use
-----------
-
-- Run "npm install" inside this project folder to install all dependencies.
-- Run "ng serve" to see the app in action (try "npm start" in case "ng serve" fails).
+. Reactive forms provide direct, explicit access to the underlying forms object model. 
+. Compared to template-driven forms, they are more robust: they're more scalable, reusable, and testable. 
+. If forms are a key part of your application, or you're already using reactive patterns for building your application, use reactive forms.
 
